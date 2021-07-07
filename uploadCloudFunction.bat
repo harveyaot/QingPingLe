@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e opinion-4ga1mf8z880e7f9e --n quickstartFunctions --r --project "C:\Users\hewe\WeChatProjects\QingPingLe"
